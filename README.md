@@ -6,13 +6,9 @@
 
 Так как сеть была обучена на другом наборе данных, видим большие погрешности в детектировании объектов. Также то, что было не совпадение классов в выходных аннотациях и аннотациях, которые были даны, сильно повлияло на рассчеты точности. Даже,если объекты правильно определялись на картинке, классифицировались они, практически всегда, неверно.
 
-* ![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/10.PNG?raw=true)
-
-
-* ![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/5.PNG?raw=true)
-
-
-* ![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/3.PNG?raw=true)
+![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/10.PNG?raw=true)
+![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/5.PNG?raw=true)
+![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/3.PNG?raw=true)
 
 
 **Б)Таблица для пункта 4:**
