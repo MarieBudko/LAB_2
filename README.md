@@ -17,4 +17,4 @@
 
 **С)Таблицы для пункта 5:**
 
-![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/tab5.PNG?raw=true)
+![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/tab5_1.PNG?raw=true)
