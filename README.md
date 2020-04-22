@@ -13,7 +13,7 @@
 
 **Б)Таблица для пункта 4:**
 
-![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/tab4.PNG?raw=true)
+![Image alt](https://github.com/MarieBudko/LAB_2/blob/master/tab4_1.PNG?raw=true)
 
 **С)Таблицы для пункта 5:**
 
